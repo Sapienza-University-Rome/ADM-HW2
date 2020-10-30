@@ -1,4 +1,4 @@
-<h1><center>Homework 1 - READ ME</center></h1> 
+<h1><center>Homework 2 - READ ME</center></h1> 
 <center><img src="img/baby_reading.gif" alt="Drawing" style="width: 200px;"/></center>
 
 ##### **Author:** Daniel Jiménez & Guillaume Teissier
