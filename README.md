@@ -19,7 +19,9 @@ In this repository you can find the next folders/files:
 
 #### 1. `main.ipynb` file
 
-> This file contains the solution to all the seven Research Questions (and its corresponding literals) required for the Exploratory Data Analysis for eCommerce analytics challenge this challenge. To visualize correctly the content of this Notebook we recommend you access to [THIS](https://nbviewer.jupyter.org/github/damjimenezgu/ADM-HW2/blob/main/main.ipynb) page or to download the Notebook in your PC and open it from Anaconda. It is mainly because from GitHub you can't see the plots made with `Plotly express`.
+> This file contains the solution to all the seven Research Questions (and its corresponding literals) required for the Exploratory Data Analysis for eCommerce analytics challenge this challenge. To visualize correctly the content of this Notebook we recommend you access to [THIS](https://nbviewer.jupyter.org/github/damjimenezgu/ADM-HW2/blob/main/main.ipynb) page (where we use NbViewer) or to download the Notebook in your PC and open it from Anaconda. It is mainly because from GitHub you can't see the plots made with `Plotly express`.
+
+Note: Check if the content of the NbViewer URL and the one in the Github repository matches. Because on some occasions the don't do due to a bug that has not been solved (look [here](https://github.com/jupyter/nbviewer/issues/914) for more information).
 
 #### 2. `our_functions.py` file
 > This file contains the functions that we created to execute some chunks of the code, keeping it tidy and easy-to-read.
